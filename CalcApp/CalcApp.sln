@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{9ADB0754-4D3B-42FA-8692-6EB91038EB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorBrain", "CalculatorBrain\CalculatorBrain.csproj", "{71DA5553-AA24-4277-ADC8-717099300C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSystem", "MenuSystem\MenuSystem.csproj", "{32DFA22E-91F9-4A2C-89A0-22E647715055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADB0754-4D3B-42FA-8692-6EB91038EB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADB0754-4D3B-42FA-8692-6EB91038EB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADB0754-4D3B-42FA-8692-6EB91038EB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADB0754-4D3B-42FA-8692-6EB91038EB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DA5553-AA24-4277-ADC8-717099300C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DA5553-AA24-4277-ADC8-717099300C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DA5553-AA24-4277-ADC8-717099300C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DA5553-AA24-4277-ADC8-717099300C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DFA22E-91F9-4A2C-89A0-22E647715055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DFA22E-91F9-4A2C-89A0-22E647715055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DFA22E-91F9-4A2C-89A0-22E647715055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DFA22E-91F9-4A2C-89A0-22E647715055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

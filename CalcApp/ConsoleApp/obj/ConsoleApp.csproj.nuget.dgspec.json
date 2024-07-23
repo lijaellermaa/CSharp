@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\ConsoleApp\\ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\CalculatorBrain\\CalculatorBrain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\CalculatorBrain\\CalculatorBrain.csproj",
+        "projectName": "CalculatorBrain",
+        "projectPath": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\CalculatorBrain\\CalculatorBrain.csproj",
+        "packagesPath": "C:\\Users\\lija5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\CalculatorBrain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lija5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\ConsoleApp\\ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\lija5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lija5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\CalculatorBrain\\CalculatorBrain.csproj": {
+                "projectPath": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\CalculatorBrain\\CalculatorBrain.csproj"
+              },
+              "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\MenuSystem\\MenuSystem.csproj": {
+                "projectPath": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\MenuSystem\\MenuSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\MenuSystem\\MenuSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\MenuSystem\\MenuSystem.csproj",
+        "projectName": "MenuSystem",
+        "projectPath": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\MenuSystem\\MenuSystem.csproj",
+        "packagesPath": "C:\\Users\\lija5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lija5\\GithubProjects\\CSharp\\CalcApp\\MenuSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lija5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
